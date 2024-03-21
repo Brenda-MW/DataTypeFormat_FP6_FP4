@@ -9,3 +9,5 @@ What are FP6 or FP4? How can we use these new floating-point types?
 This example shows how to quantize data using these data format. 
 
 ![image](https://github.com/Brenda-MW/DataTypeFormat_FP6_FP4/assets/139565107/f8e53696-6079-40e0-a836-8c434a2a15db)
+
+Follow the attached MATLAB examples to understand the quantization behaviors of these data type format better. 
